@@ -1,16 +1,84 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isudiptodas.isudiptodas&"  />
+</div>
 
-<!--
-**isudiptodas/isudiptodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">How's it going technophiles ?</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/cb/08/b1/cb08b1e89a74401c47d8325521e71874.gif"  />
+</div>
+
+###
+
+<p align="left">It's Sudipto this side.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am a passionate and motivated 2nd year CS student with a focus on C++ programming. With a descent foundation in C language, computer architecture, DBMS, and operating systems, I strive to explore the vast realm of technology and constantly seek new opportunities to expand my knowledge.<br><br>Here you will find a collection of my codes, notes, PDFs, and book suggestions, reflecting my hands-on experience and theoretical understanding. I believe in the power of collaboration and knowledge sharing, and I am excited to contribute to the tech community through my GitHub repositories.<br><br>Feel free to browse through my repositories, leave feedback, or reach out for collaboration opportunities. Let's connect and together, we can shape the future of technology! Keep learning & keep exploring.</p>
+
+###
+
+<h2 align="left">Languages & Technologies</h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect with me :</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudipto-das-386a33234/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://outlook.live.com/mail/0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isudiptodas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isudiptodas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/a7/b0/15/a7b015d343ad801ad6da8c242dc6ae06.gif"  />
+</div>
+
+###
