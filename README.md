@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/cb/08/b1/cb08b1e89a74401c47d8325521e71874.gif"  />
+  <img height="300" src="https://i.pinimg.com/564x/94/aa/ed/94aaed3268fb634d5749cda706bb4388.jpg"  />
 </div>
 
 ###
@@ -73,6 +73,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isudiptodas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isudiptodas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/a7/b0/15/a7b015d343ad801ad6da8c242dc6ae06.gif"  />
 </div>
 
 ###
