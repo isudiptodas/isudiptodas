@@ -8,13 +8,13 @@
 
 ###
 
-<div align="center">
-  <img height="392" src="https://i.pinimg.com/originals/cb/08/b1/cb08b1e89a74401c47d8325521e71874.gif"  />
-</div>
+<p align="left">It's Sudipto this side.</p>
 
 ###
 
-<p align="left">It's Sudipto this side.</p>
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/cb/08/b1/cb08b1e89a74401c47d8325521e71874.gif"  />
+</div>
 
 ###
 
