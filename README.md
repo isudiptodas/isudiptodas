@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isudiptodas.isudiptodas&"  />
-</div>
+
 
 ###
 
@@ -47,6 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="25" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="25" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
+  <img width="25" />
+  <img src="https://th.bing.com/th/id/R.330b0e424ab97083822c034563845e49?rik=W5ZYteLdhceR7A&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fAdobe_Creative_Cloud_logo.png&ehk=jSOX3Z0sRhKruLsN9XcAZxi2eaTyToJufWMrIKLAbB8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="adobe creative cloud" />
+   <img width="25" />
 </div>
 
 ###
@@ -71,14 +74,24 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isudiptodas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isudiptodas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=1" height="150" alt="streak graph"  />
+  <br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isudiptodas&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="most languages commit" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=isudiptodas&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="trophy" />
+ 
 </div>
 
 ###
 
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/a7/b0/15/a7b015d343ad801ad6da8c242dc6ae06.gif"  />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isudiptodas.isudiptodas&"  />
 </div>
 
 ###
