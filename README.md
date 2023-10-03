@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Languages & Technologies</h2>
+<h2 align="left">Languages & Technologies Used</h2>
 
 ###
 
@@ -53,11 +53,13 @@
    <img width="25" />
   <img src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/lightroom-cc.png" height="40" alt="photoshop"  />
   <img width="25"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
+  <img width="25"  />
 </div>
 
 ###
 
-<h2 align="left">Connect with me :</h2>
+<h2 align="left">Connect with me </h2>
 
 ###
 
