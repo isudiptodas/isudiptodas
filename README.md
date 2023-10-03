@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/a7/b0/15/a7b015d343ad801ad6da8c242dc6ae06.gif"  />
+  <img height="400" src="https://github.com/isudiptodas/isudiptodas/blob/main/Github_Profile_README.gif"  />
 </div>
 
 <br>
