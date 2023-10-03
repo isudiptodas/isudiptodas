@@ -2,17 +2,18 @@
 
 ###
 
+<div align="center">
+  <img height="370" src="https://github.com/isudiptodas/isudiptodas/blob/main/Banner.png"  />
+</div>
+
+###
+
 <h1 align="left">How's it going technophiles ?</h1>
 
 ###
 
 <p align="left">It's Sudipto this side.</p>
 
-###
-
-<div align="center">
-  <img height="370" src="https://github.com/isudiptodas/isudiptodas/blob/main/Banner.png"  />
-</div>
 
 ###
 
