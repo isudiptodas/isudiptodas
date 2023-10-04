@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Languages & Technologies Used</h2>
+<h2 align="left">Languages & Technologies </h2>
 
 ###
 
