@@ -1,5 +1,4 @@
 
-
 ###
 
 <div align="center">
@@ -45,19 +44,39 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="25" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="25" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
   <img width="25" />
-  <img src="https://th.bing.com/th/id/R.330b0e424ab97083822c034563845e49?rik=W5ZYteLdhceR7A&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fAdobe_Creative_Cloud_logo.png&ehk=jSOX3Z0sRhKruLsN9XcAZxi2eaTyToJufWMrIKLAbB8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="adobe creative cloud" />
-   <img width="25" />
   
-  <br>
-  <br>
-  
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
-  <img width="25"  />
 </div>
+<br>
+
+###
+
+<h2 align="left">My Productivity System</h2>
+
+###
+
+<div align="left">
+    <img src="https://th.bing.com/th/id/R.330b0e424ab97083822c034563845e49?rik=W5ZYteLdhceR7A&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fAdobe_Creative_Cloud_logo.png&ehk=jSOX3Z0sRhKruLsN9XcAZxi2eaTyToJufWMrIKLAbB8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="Left creative cloud"/>
+    <img width="25"  />
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
+    <img width="280"  />
+
+  
+   <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="40" alt="microsoft 365"/>
+    <img width="10"  />
+    <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_onenote_logo_icon_145725.png" height="40" alt="one note"/>
+    <img width="280"  />
+
+  <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" height="40" alt="vs code"/>
+    <img width="25"  />
+    <img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-768x768.png" height="40" alt="intellij idea"/>
+    <img width="25"  />
+    <br><br>
+    <p><b>For Creativity & Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Documents & Note-Taking &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Coding IDE</b></p>
+
+</div>
+<br>
 
 ###
 
