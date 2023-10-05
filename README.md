@@ -22,6 +22,8 @@
 
 <p align="left">I am a passionate and motivated 2nd year CS student with a focus on C++ programming. With a descent foundation in C language, computer architecture, DBMS, and operating systems, I strive to explore the vast realm of technology and constantly seek new opportunities to expand my knowledge.<br><br>Here you will find a collection of my codes, notes, PDFs, and book suggestions, reflecting my hands-on experience and theoretical understanding. I believe in the power of collaboration and knowledge sharing, and I am excited to contribute to the tech community through my GitHub repositories.<br><br>Feel free to browse through my repositories, leave feedback, or reach out for collaboration opportunities. Let's connect and together, we can shape the future of technology! Keep learning & keep exploring.</p>
 
+<br>
+
 ###
 
 <h2 align="left">Languages & Technologies </h2>
@@ -33,7 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="25" />
   <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" height="40" alt="cplusplus logo"  />
@@ -52,28 +54,47 @@
 
 ###
 
-<h2 align="left">My Productivity System</h2>
+<h2 align="left"> Productivity Softwares </h2>
 
 ###
 
-<div align="center">
+<div align="left">
+</div>
+
+###
+
+<div align="left">
     <img src="https://th.bing.com/th/id/R.330b0e424ab97083822c034563845e49?rik=W5ZYteLdhceR7A&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fAdobe_Creative_Cloud_logo.png&ehk=jSOX3Z0sRhKruLsN9XcAZxi2eaTyToJufWMrIKLAbB8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="Left creative cloud"/>
     <img width="25"  />
-     <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
-    <img width="280"  />
 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
+<img width="25"  />
+
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="40" alt="microsoft 365"/>
+<img width="25"  />
+
+<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_onenote_logo_icon_145725.png" height="40" alt="one note"/>
+<img width="25"  />
+</div>
+<br>
+    
+###
+
+<h2 align="left"> Programming IDE </h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">    
+<img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" height="40" alt="vs code"/>
+    <img width="25"  />
   
-   <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" height="40" alt="microsoft 365"/>
-    <img width="10"  />
-    <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_onenote_logo_icon_145725.png" height="40" alt="one note"/>
-    <img width="280"  />
-
-  <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" height="40" alt="vs code"/>
+<img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-768x768.png" height="40" alt="intellij idea"/>
     <img width="25"  />
-    <img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-768x768.png" height="40" alt="intellij idea"/>
-    <img width="25"  />
-    <br><br>
-    <p><b>For Creativity & Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Documents & Note-Taking &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Coding IDE</b></p>
 
 </div>
 <br>
