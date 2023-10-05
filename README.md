@@ -82,6 +82,9 @@
 <img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-768x768.png" height="40" alt="intellij idea"/>
 <img width="25"  />
 
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Dropbox-512.png" height="40" alt="dropbox"/>
+<img width="25"  />
+
 <br>
 <br>
 
@@ -95,6 +98,7 @@
 <p><b>One Note : </b>For note-taking.</p>
 <p><b>VS Code : </b>For coding IDE.</p>
 <p><b>IntelliJ Idea : </b>For java development.</p>
+<p><b>Dropbox : </b>For cloud storage.</p>
 
 </div>
     
