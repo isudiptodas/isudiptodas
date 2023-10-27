@@ -121,9 +121,12 @@
 <div align="center">
 
 <a href="https://www.dropbox.com/scl/fo/r212kmiow6u6kb2lopfe1/h?rlkey=s79qr0rrtkcycnx98ac1lrifh&dl=0">
-        <img src="https://cdn.dribbble.com/users/200045/screenshots/13995181/media/2f2d2082928319cb3bcca17be3b1ecf4.gif" alt="reading list" width="380" height="250">
+ <img src="https://cdn.dribbble.com/users/200045/screenshots/13995181/media/2f2d2082928319cb3bcca17be3b1ecf4.gif" alt="reading list" width="380" height="250">
     </a> 
-
+    <br>
+    <br>
+    
+<p>Click up to redirect to my collection of books which includes : self improvement, famous autobiographies, hindu culture & computer science</p>
   </div>
 
 ###
