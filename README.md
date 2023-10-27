@@ -114,14 +114,14 @@
 
 ###
 
-<h2 align="center">Wanna access my reading lists </h2>
+<h2 align="left">Wanna access my reading lists </h2>
 
 ###
 
 <div align="center">
 
 <a href="https://www.dropbox.com/scl/fo/r212kmiow6u6kb2lopfe1/h?rlkey=s79qr0rrtkcycnx98ac1lrifh&dl=0">
-        <img src="https://cdni.iconscout.com/illustration/premium/thumb/student-reading-book-6497352-5432958.png" alt="reading list" width="160" height="200">
+        <img src="https://cdn.dribbble.com/users/200045/screenshots/13995181/media/2f2d2082928319cb3bcca17be3b1ecf4.gif" alt="reading list" width="380" height="250">
     </a> 
 
   </div>
