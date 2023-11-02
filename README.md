@@ -65,9 +65,6 @@
 
 <div align="center">
 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" height="40" alt="behance"  />
-<img width="25"  />
-
 <img src="https://th.bing.com/th/id/R.459c35536fa07bdb9574c91444609bbe?rik=yxZDlkNURg%2ftXQ&riu=http%3a%2f%2fapps.ithaca.edu%2fimages%2fmicrosoft-365.png&ehk=jGixW%2fYQsHrdy%2bJPcmWIkF9IDRwUm0guW2FsUy111JM%3d&risl=&pid=ImgRaw&r=0" height="40" alt="microsoft 365"/>
 <img width="25"  />
 
@@ -90,7 +87,6 @@
 
 <br>
 
-<p><b>Behance : </b>For web design and UI/UX inspirations.</p>
 <p><b>Microsoft 365 : </b>For documentation & file editing.</p>
 <p><b>One Note : </b>For note-taking.</p>
 <p><b>VS Code : </b>For coding IDE.</p>
