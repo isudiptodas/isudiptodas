@@ -50,60 +50,10 @@
   <img width="25" />
   
 </div>
-<br>
-
-###
-
-<h2 align="left"> Productivity Softwares </h2>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://th.bing.com/th/id/R.459c35536fa07bdb9574c91444609bbe?rik=yxZDlkNURg%2ftXQ&riu=http%3a%2f%2fapps.ithaca.edu%2fimages%2fmicrosoft-365.png&ehk=jGixW%2fYQsHrdy%2bJPcmWIkF9IDRwUm0guW2FsUy111JM%3d&risl=&pid=ImgRaw&r=0" height="40" alt="microsoft 365"/>
-<img width="25"  />
-
-<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_onenote_logo_icon_145725.png" height="40" alt="one note"/>
-<img width="25"  />
-
-<img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" height="40" alt="vs code"/>
-<img width="25"  />
-  
-<img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo-768x768.png" height="40" alt="intellij idea"/>
-<img width="25"  />
-
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Dropbox-512.png" height="40" alt="dropbox"/>
-<img width="25"  />
-
-<br>
-<br>
-
-<p>Here, the mentioned above are the softwares which I am using right now to enhance my productivity. </p>
-
-<br>
-
-<p><b>Microsoft 365 : </b>For documentation & file editing.</p>
-<p><b>One Note : </b>For note-taking.</p>
-<p><b>VS Code : </b>For coding IDE.</p>
-<p><b>IntelliJ Idea : </b>For java development.</p>
-<p><b>Dropbox : </b>For cloud storage.</p>
-
-</div>
-    
-###
-
-<div align="center">
-</div>
 
 ###
 
 <div align="center">    
-
 
 </div>
 <br>
