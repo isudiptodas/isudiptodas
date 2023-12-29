@@ -82,27 +82,26 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sudipto-das-386a33234/" target="_blank">
+  <a href="https://www.linkedin.com/in/sudipto-das-386a33234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+  <a href="mailto:work.sudiptodas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://outlook.live.com/mail/0/" target="_blank">
+  <a href="mailto:isudiptodas01@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
+   <a href="1180940349393350777" target="_blank">
+    <img src="https://logos-world.net/wp-content/uploads/2021/05/Discord-New-Logo.png" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isudiptodas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=1" height="150" alt="streak graph"  />
   <br>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isudiptodas&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="most languages commit" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=isudiptodas&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="trophy" />
- 
+
 </div>
 
 ###
