@@ -91,7 +91,7 @@
   <a href="mailto:isudiptodas01@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
   </a>
-   <a href="1180940349393350777" target="_blank">
+   <a href="https://discord.com/invite/yrA2zdEj" target="_blank">
     <img src="https://logos-world.net/wp-content/uploads/2021/05/Discord-New-Logo.png" height="40" alt="discord logo"  />
   </a>
 </div>
