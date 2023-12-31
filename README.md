@@ -23,6 +23,12 @@ do{
    implement();
 }
 while(brain!=0)
+
+Current stream - "BCA"
+Current year - "2nd"
+Interest - "Astronomy", "Technology", "Books"
+
+
 ```
 
 ###
