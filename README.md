@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudipto-das-386a33234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" height="40" alt="linkedin logo"  />
+    <img src="https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png" height="40" alt="linkedin logo"  />
   </a>
   
   <a href="mailto:work.sudiptodas@gmail.com" target="_blank">
