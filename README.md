@@ -16,6 +16,17 @@
 
 ###
 
+``` c++
+do{
+   getUp();
+   learn();
+   implement();
+}
+while(brain!=0)
+```
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -25,15 +36,6 @@
 
 ###
 
-``` c++
-do{
-   getUp();
-   learn();
-   implement();
-}
-while(brain!=0)
-```
-###
 
 <h2 align="left">Languages & Technologies </h2>
 
