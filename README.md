@@ -60,40 +60,27 @@
 
 ###
 
-<h2 align="left">Wanna access my reading lists </h2>
-
-###
-
-<div align="center">
-
-<a href="https://www.dropbox.com/scl/fo/r212kmiow6u6kb2lopfe1/h?rlkey=s79qr0rrtkcycnx98ac1lrifh&dl=0">
- <img src="https://cdn.dribbble.com/users/200045/screenshots/13995181/media/2f2d2082928319cb3bcca17be3b1ecf4.gif" alt="reading list" width="380" height="250">
-    </a> 
-    <br>
-    <br>
-    
-<p>Click up to redirect to my collection of books which includes : self improvement, famous autobiographies, hindu culture & computer science</p>
-  </div>
-
-###
-
 <h2 align="left">Connect with me </h2>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudipto-das-386a33234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="mailto:work.sudiptodas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://iconape.com/wp-content/uploads/1/11/gmail-02.png" height="40" alt="gmail logo"  />
   </a>
+  
   <a href="mailto:isudiptodas01@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" height="40" alt="microsoft-outlook logo"  />
   </a>
+  
    <a href="https://discord.com/invite/yrA2zdEj" target="_blank">
-    <img src="https://logos-world.net/wp-content/uploads/2021/05/Discord-New-Logo.png" height="40" alt="discord logo"  />
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" height="40" alt="discord logo"  />
   </a>
+  
 </div>
 
 ###
