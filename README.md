@@ -18,16 +18,17 @@
 
 ``` c++
 do{
-   getUp();
    learn();
+   analyze();
    implement();
 }
 while(brain!=0)
+______________________________________________________________________________________________________________
 
-Current stream - "BCA"
-Current year - "2nd"
-Interest - "Astronomy", "Technology", "Books"
-
+Current_stream = ["BCA"];
+Current_year = ["2nd"];
+Interest = ["Astronomy", "Technology", "Books", "Problem solving"];
+Languages = ["C", "C++", "JAVA"];
 
 ```
 
@@ -39,6 +40,7 @@ Interest - "Astronomy", "Technology", "Books"
 
 <p align="left">I am a passionate and motivated 2nd year CS student with a focus on C++ programming. With a descent foundation in C language, computer architecture, DBMS, and operating systems, I strive to explore the vast realm of technology and constantly seek new opportunities to expand my knowledge.<br><br>Here you will find a collection of my codes, notes, PDFs, and book suggestions, reflecting my hands-on experience and theoretical understanding. I believe in the power of collaboration and knowledge sharing, and I am excited to contribute to the tech community through my GitHub repositories.<br><br>Feel free to browse through my repositories, leave feedback, or reach out for collaboration opportunities. Let's connect and together, we can shape the future of technology! Keep learning & keep exploring.</p>
 
+<br>
 
 ###
 
