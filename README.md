@@ -28,7 +28,7 @@ ________________________________________________________________________________
 Current_stream = ["BCA"];
 Current_year = ["2nd"];
 Interest = ["Astronomy", "Technology", "Books", "Problem solving"];
-Languages = ["C", "C++", "JAVA", "Python"];
+Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS"];
 
 ```
 
