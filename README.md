@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 Current_stream = ["BCA"];
 Current_year = ["2nd"];
-Interest = ["Astronomy", "Technology", "Books", "Problem solving"];
+Interest = ["Astronomy", "Technology", "Books"];
 Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS"];
 
 ```
@@ -61,7 +61,9 @@ Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS"];
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="25" />
+   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" height="40" alt="css logo"  />
   <img width="25" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
   <img width="25" />
@@ -94,10 +96,6 @@ Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS"];
   
   <a href="mailto:isudiptodas01@outlook.com" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  
-   <a href="https://discord.com/invite/yrA2zdEj" target="_blank">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" height="40" alt="discord logo"  />
   </a>
   
 </div>
