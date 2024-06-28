@@ -26,9 +26,9 @@ while(brain!=0)
 ______________________________________________________________________________________________________________
 
 Current_stream = ["BCA"];
-Current_year = ["2nd"];
+Current_year = ["3rd"];
 Interest = ["Astronomy", "Technology", "Books"];
-Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS"];
+Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS", "JavaScript"];
 
 ```
 
