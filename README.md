@@ -67,6 +67,8 @@ Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS", "JavaScript"];
   <img width="25" />
   <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" height="40" alt="js" />
   <img width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwind" />
+  <img width="25" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
   <img width="25" />
   <img src="https://th.bing.com/th/id/R.b32ab39f0e0ec0ee211e7d5871a85b25?rik=UgUvGdJoKe9S5g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fPython-PNG-File.png&ehk=91gnkGqINrkU%2fBwfMFMtghWye%2fQHWz6FFtUFGGllnb8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="python logo" />
