@@ -28,7 +28,9 @@ ________________________________________________________________________________
 Current_stream = ["BCA"];
 Current_year = ["3rd"];
 Interest = ["Astronomy", "Technology", "Books"];
-Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS", "JavaScript"];
+Programming Languages = ["C++", "JAVA"];
+Web Development = ["HTML", "CSS", "JavaScript"];
+Libraries & Frameworks = ["GSAP", "TailwindCSS", "ReactJS"];
 
 ```
 
@@ -71,9 +73,7 @@ Languages = ["C", "C++", "JAVA", "Python", "HTML", "CSS", "JavaScript"];
   <img width="25" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
   <img width="25" />
-  <img src="https://th.bing.com/th/id/R.b32ab39f0e0ec0ee211e7d5871a85b25?rik=UgUvGdJoKe9S5g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fPython-PNG-File.png&ehk=91gnkGqINrkU%2fBwfMFMtghWye%2fQHWz6FFtUFGGllnb8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="python logo" />
-  <img width="25" />
-  
+
 </div>
 
 ###
