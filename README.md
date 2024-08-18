@@ -57,8 +57,7 @@ Libraries & Frameworks = ["GSAP", "TailwindCSS", "ReactJS"];
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="25" />
+  
   <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" height="40" alt="cplusplus logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
