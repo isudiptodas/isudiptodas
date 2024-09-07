@@ -25,12 +25,9 @@ do{
 while(brain!=0)
 ______________________________________________________________________________________________________________
 
-Current_stream = ["BCA"];
-Current_year = ["3rd"];
 Interest = ["Astronomy", "Technology", "Books"];
 Programming Languages = ["C++", "JAVA"];
-Web Development = ["HTML", "CSS", "JavaScript"];
-Libraries & Frameworks = ["GSAP", "TailwindCSS", "ReactJS"];
+Frontend Development = ["HTML", "CSS", "JavaScript", "TailwindCSS", "ReactJS"];
 
 ```
 
@@ -40,7 +37,13 @@ Libraries & Frameworks = ["GSAP", "TailwindCSS", "ReactJS"];
 
 ###
 
-<p align="left">I am a passionate and motivated CS student with a focus on C++ programming. With a descent foundation in C language, computer architecture, DBMS, and operating systems, I strive to explore the vast realm of technology and constantly seek new opportunities to expand my knowledge.<br><br>Here you will find a collection of my codes, notes, PDFs, and book suggestions, reflecting my hands-on experience and theoretical understanding. I believe in the power of collaboration and knowledge sharing, and I am excited to contribute to the tech community through my GitHub repositories.<br><br>Feel free to browse through my repositories, leave feedback, or reach out for collaboration opportunities. Let's connect and together, we can shape the future of technology! Keep learning & keep exploring.</p>
+<p align="left"> 
+I am a passionate frontend developer with expertise in HTML, CSS, JavaScript, React, and Tailwind CSS, specializing in building dynamic and responsive user interfaces. As a final-year BCA student, I’m currently expanding my skills into backend development, focusing on creating full-stack solutions.
+
+In addition to my technical skills, I’m a digital designer proficient in Figma, where I create modern, user-friendly UI designs that enhance user experience. My work combines a strong eye for design with the ability to bring those designs to life in code, delivering well-crafted and intuitive websites and applications.
+
+I’m always open to learning new technologies and working on exciting projects that bridge the gap between development and design.
+ </p>
 
 <br>
 
