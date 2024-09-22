@@ -73,7 +73,7 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwind" />
   <img width="25" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git" />
+  <img src="  https://www.pngwing.com/en/free-png-azbzv " height="40" alt="react" />
   <img width="25" />
 
 </div>
