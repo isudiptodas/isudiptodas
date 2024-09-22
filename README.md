@@ -28,6 +28,7 @@ ________________________________________________________________________________
 Interest = ["Astronomy", "Technology", "Books"];
 Programming Languages = ["C++", "JAVA"];
 Frontend Development = ["HTML", "CSS", "JavaScript", "TailwindCSS", "ReactJS"];
+Backend Development = ["NodeJS, ExpressJS, MongoDB];
 
 ```
 
@@ -71,9 +72,11 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
   <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" height="40" alt="js" />
   <img width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwind" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
+  <img width="20" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
-  <img src="  https://www.pngwing.com/en/free-png-azbzv " height="40" alt="react" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="nodeJS" />
   <img width="25" />
 
 </div>
