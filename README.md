@@ -80,6 +80,8 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="nodeJS" />
   <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="mongodb" />
+  <img width="25" />
 
 </div>
 
