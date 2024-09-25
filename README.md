@@ -51,7 +51,7 @@ I’m always open to learning new technologies and working on exciting projects 
 ###
 
 
-<h2 align="left">Languages & Technologies </h2>
+<h2 align="left">Tech stack I've used </h2>
 
 ###
 
@@ -70,9 +70,11 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
    <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" height="40" alt="css logo"  />
   <img width="25" />
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" height="40" alt="js" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/js_logo.png" height="40" alt="js" />
   <img width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/ts_logo.png" height="40" alt="ts" />
+  <img width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px- Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
   <img width="20" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
