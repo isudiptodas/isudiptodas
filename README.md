@@ -74,6 +74,7 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/ts_logo.png" height="40" alt="ts" />
   <img width="25" />
+  <br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px- Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
   <img width="20" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
