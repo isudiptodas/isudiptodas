@@ -78,6 +78,8 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/linux.png" height="40" alt="linux" />
   <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/figma.png" height="40" alt="figma" />
+  <img width="25" />
 
 
 </div>
