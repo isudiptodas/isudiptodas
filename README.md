@@ -16,15 +16,7 @@
 
 ###
 
-``` c++
-do{
-   learn();
-   analyze();
-   implement();
-}
-while(brain!=0)
-______________________________________________________________________________________________________________
-
+``` kotlin
 Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "JavaScript", "TypeScript"];
 Frontend_Development = ["HTML", "CSS", "TailwindCSS", "ReactJS"];
