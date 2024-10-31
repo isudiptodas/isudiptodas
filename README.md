@@ -26,9 +26,10 @@ while(brain!=0)
 ______________________________________________________________________________________________________________
 
 Interest = ["Astronomy", "Technology", "Books"];
-Programming Languages = ["C++", "JAVA"];
-Frontend Development = ["HTML", "CSS", "JavaScript", "TailwindCSS", "ReactJS"];
-Backend Development = ["NodeJS, ExpressJS, MongoDB];
+Programming_Languages = ["C++", "JavaScript", "TypeScript"];
+Frontend_Development = ["HTML", "CSS", "TailwindCSS", "ReactJS"];
+Backend_Development = ["NodeJS", "Express"];
+Databases = ["MySQL", "MongoDB"];
 
 ```
 
@@ -39,11 +40,9 @@ Backend Development = ["NodeJS, ExpressJS, MongoDB];
 ###
 
 <p align="left"> 
-I am a passionate frontend developer with expertise in HTML, CSS, JavaScript, React, and Tailwind CSS, specializing in building dynamic and responsive user interfaces. As a final-year BCA student, I’m currently expanding my skills into backend development, focusing on creating full-stack solutions.
+I’m a passionate full-stack developer with expertise in MERN stack specializing in building dynamic and responsive user interfaces. As a final year BCA student I am currently exploring DevOps to deepen my understanding of the overall development lifecycle.
 
 In addition to my technical skills, I’m a digital designer proficient in Figma, where I create modern, user-friendly UI designs that enhance user experience. My work combines a strong eye for design with the ability to bring those designs to life in code, delivering well-crafted and intuitive websites and applications.
-
-I’m always open to learning new technologies and working on exciting projects that bridge the gap between development and design.
  </p>
 
 <br>
@@ -64,8 +63,6 @@ I’m always open to learning new technologies and working on exciting projects 
   
   <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" height="40" alt="cplusplus logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="25" />
    <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" height="40" alt="css logo"  />
@@ -74,14 +71,20 @@ I’m always open to learning new technologies and working on exciting projects 
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/ts_logo.png" height="40" alt="ts" />
   <img width="25" />
-  <br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px- Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
   <img width="20" />
+    <br><br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="nodeJS" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/mongodb.png" height="40" alt="mongodb" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/git.png" height="40" alt="git" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/mysql.png" height="40" alt="mysql" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/linux.png" height="40" alt="linux" />
   <img width="25" />
 
 
