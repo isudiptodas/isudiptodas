@@ -65,9 +65,9 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px- Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwind" />
   <img width="20" />
-    <br><br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
+  <br><br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="nodeJS" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/mongodb.png" height="40" alt="mongodb" />
@@ -79,6 +79,8 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/linux.png" height="40" alt="linux" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/figma.png" height="40" alt="figma" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/docker-mark-blue.png" height="40" alt="docker" />
   <img width="25" />
 
 
