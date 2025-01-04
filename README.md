@@ -119,7 +119,7 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=isudiptodas&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=1" height="150" alt="streak graph"  />
   <br>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isudiptodas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
