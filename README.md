@@ -18,7 +18,7 @@
 
 ``` kotlin
 Interest = ["Astronomy", "Technology", "Books"];
-Programming_Languages = ["C++", "JavaScript", "TypeScript"];
+Programming_Languages = ["C++", "JavaScript", "TypeScript", "Java"];
 Frontend_Development = ["HTML", "CSS", "TailwindCSS", "ReactJS"];
 Backend_Development = ["NodeJS", "Express"];
 Databases = ["MySQL", "MongoDB"];
