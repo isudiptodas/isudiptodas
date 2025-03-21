@@ -22,6 +22,8 @@ Programming_Languages = ["C++", "JavaScript", "TypeScript", "Java"];
 Frontend_Development = ["HTML", "CSS", "TailwindCSS", "ReactJS"];
 Backend_Development = ["NodeJS", "Express"];
 Databases = ["MySQL", "MongoDB"];
+Cloud = ["AWS", "Docker"];
+OS = ["Windows", "Linux (ubuntu)"];
 
 ```
 
