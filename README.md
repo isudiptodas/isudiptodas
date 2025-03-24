@@ -44,7 +44,7 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
 ###
 
 
-<h2 align="left">Tech stack I've used </h2>
+<h2 align="left">Tech stack used </h2>
 
 ###
 
