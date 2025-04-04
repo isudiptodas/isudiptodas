@@ -68,6 +68,8 @@ In addition to my technical skills, I’m a digital designer proficient in Figma
   <img width="20" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
+  <img src="https://img.icons8.com/fluent-systems-filled/512/EBEBEB/nextjs.png" height="40" alt="nextjs" />
+  <img width="25" />
   <br><br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/node-js.svg" height="40" alt="nodeJS" />
   <img width="25" />
