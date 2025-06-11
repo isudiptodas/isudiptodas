@@ -19,7 +19,7 @@
 ``` kotlin
 Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "Java"];
-Web Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs"];
+Web Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs", "SpringBoot"];
 Databases = ["MySQL", "MongoDB"];
 Cloud = ["AWS", "Docker"];
 OS = ["Windows", "Linux (ubuntu)"];
