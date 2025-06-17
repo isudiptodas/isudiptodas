@@ -33,9 +33,16 @@ OS = ["Windows", "Linux (ubuntu)"];
 ###
 
 <p align="left"> 
-I’m a passionate full-stack developer with expertise in MERN stack specializing in building dynamic and responsive user interfaces. As a final year BCA student I am currently exploring DevOps to deepen my understanding of the overall development lifecycle.
+I’m a passionate full-stack developer with over 2 years of hands on experience on MERN stack, NextJS, SpringBoot specializing in building dynamic and responsive user interfaces. <br>
+Currently focusing on building AI applications using LLMs and  diving deep in the AI world. <br> <br>
+<b>What's great in me ? </b><br>
+<ul>
+  <li>I can simplify complex topics in an easy and fun way.</li>
+  <li>With me development can be as fun as playing super mario.</li>
+  <li>I not just build applications, but instead focus on building new solutions for the problems I faced.</li>
+  <li>I am always curious to learn new things, try new tech stack and implement them in my way.</li>
+</ul>
 
-In addition to my technical skills, I’m a digital designer proficient in Figma, where I create modern, user-friendly UI designs that enhance user experience. My work combines a strong eye for design with the ability to bring those designs to life in code, delivering well-crafted and intuitive websites and applications.
  </p>
 
 <br>
