@@ -20,7 +20,7 @@
 Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "Java"];
 Web_Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs", "SpringBoot"];
-Databases = ["MySQL", "MongoDB", "neon"];
+Databases = ["MySQL", "MongoDB", "Neon"];
 Cloud_Environment = ["Docker"];
 OS = ["Windows", "Linux (ubuntu)"];
 
