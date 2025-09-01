@@ -95,7 +95,7 @@ Currently focusing on building AI applications using LLMs and  diving deep in th
   <img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c" height="40" alt="neondb" />
   <img width="25" />
   <br><br>
-<img src="https://github.com/isudiptodas/isudiptodas/blob/main/langchain-logo.png" height="40" alt="docker" />
+<img src="https://github.com/isudiptodas/isudiptodas/blob/main/langchain.png" height="50" alt="langchain" />
   <img width="25" />
 </div>
 
