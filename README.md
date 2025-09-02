@@ -97,6 +97,8 @@ Currently focusing on building AI applications using LLMs and  diving deep in th
   <br><br>
 <img src="https://github.com/isudiptodas/isudiptodas/blob/main/langchain.png" height="50" alt="langchain" />
   <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/supabase.png" height="50" alt="supabase" />
+  <img width="25" />
 </div>
 
 ###
