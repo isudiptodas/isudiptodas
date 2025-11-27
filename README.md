@@ -122,6 +122,12 @@ Currently focusing on building AI applications using LLMs and  diving deep in th
   <a href="mailto:work.sudiptodas@gmail.com" target="_blank">
     <img src="https://iconape.com/wp-content/uploads/1/11/gmail-02.png" height="40" alt="gmail logo"  />
   </a>
+
+  <a href="https://www.x.com/isudiptodas" target="_blank">
+    <img src="https://github.com/isudiptodas/isudiptodas/blob/main/x.png " height="40" alt="twitter x logo"  />
+  </a>
+
+  
   
   <a href="mailto:isudiptodas01@outlook.com" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" height="40" alt="microsoft-outlook logo"  />
