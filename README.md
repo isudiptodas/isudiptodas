@@ -23,6 +23,8 @@ Web_Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Rea
 Databases = ["MySQL", "MongoDB", "Neon", "Datastax"];
 Cloud_Environment = ["Docker"];
 OS = ["Windows", "Linux (ubuntu)"];
+Others = ["ArcJet", "Drizzle", "Prisma"];
+Design_Tools = ["Canva", "Affinity", "Figma"];
 
 ```
 
