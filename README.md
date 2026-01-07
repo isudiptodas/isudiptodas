@@ -36,7 +36,7 @@ Design_Tools = ["Canva", "Affinity", "Figma", "Spline"];
 
 <p align="left"> 
 I’m a passionate full-stack developer with over 2 years of hands on experience on MERN stack, NextJS, SpringBoot specializing in building dynamic and responsive user interfaces. <br>
-Currently focusing on building AI applications using LLMs and  diving deep in the AI world. <br> <br>
+Currently focusing on AI and DevOps. <br> <br>
 <b>What's great in me ? </b><br>
 <ul>
   <li>I can simplify complex topics in an easy and fun way.</li>
