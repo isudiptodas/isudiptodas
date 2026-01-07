@@ -20,11 +20,11 @@
 Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "Java"];
 Web_Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs", "SpringBoot"];
-Databases = ["MySQL", "MongoDB", "Neon", "Datastax"];
-Cloud_Environment = ["Docker"];
+Databases = ["MySQL", "MongoDB", "Neon", "Datastax", "Redis"];
+Cloud = ["Docker", "AWS"];
 OS = ["Windows", "Linux (ubuntu)"];
 Others = ["ArcJet", "Drizzle", "Prisma"];
-Design_Tools = ["Canva", "Affinity", "Figma"];
+Design_Tools = ["Canva", "Affinity", "Figma", "Spline"];
 
 ```
 
