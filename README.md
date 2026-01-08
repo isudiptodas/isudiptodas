@@ -97,9 +97,13 @@ Currently focusing on AI and DevOps. <br> <br>
   <img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c" height="40" alt="neondb" />
   <img width="25" />
   <br><br>
-<img src="https://github.com/isudiptodas/isudiptodas/blob/main/langchain.png" height="55" alt="langchain" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/langchain.png" height="55" alt="langchain" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/supabase.png" height="40" alt="supabase" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/springboot.png" height="40" alt="springboot" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/redis.png" height="40" alt="redis" />
   <img width="25" />
 </div>
 
