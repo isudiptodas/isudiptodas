@@ -53,7 +53,16 @@ Currently focusing on AI and DevOps. <br> <br>
 
 <h2 align="left">Projects</h2>
 <ul>
-  <li><a href='' style={{color: blue; font: underline}}>MediLab</a> - Complete end to end healthcare management platform</li>
+  <li><a href='https://github.com/isudiptodas/Healthcare-Management-Platform' style={{color: blue; font: underline}}>MediLab</a> - Complete end to end healthcare management platform</li>
+  <li><a href='https://github.com/isudiptodas/Pixel-Labs-Component_UI_Library' style={{color: blue; font: underline}}>PixelLabs UI</a> - Frontend UI component library for ReactJS</li>
+  <li><a href='https://github.com/isudiptodas/Ripple-AI-Multi_Feature_Platform' style={{color: blue; font: underline}}>Ripple AI</a> - A platform packed with fun & interactive features</li>
+  <li><a href='https://github.com/isudiptodas/EVALUATE-AI-Mock_Interview' style={{color: blue; font: underline}}>Evaluate AI</a> - AI mock interview preparation with real time feedback</li>
+  <li><a href='https://github.com/isudiptodas/COMPANION-AI-Mood_Upliftment' style={{color: blue; font: underline}}>Companion AI</a> - Human like voice agents for mood upliftment</li>
+  <li><a href='https://github.com/isudiptodas/TECHNOTRACER-Campus_Item_Recovery' style={{color: blue; font: underline}}>TechnoTracer</a> - Lost & recovery platform for college campus</li>
+  <li><a href='https://github.com/isudiptodas/AURORA-AI-RAG_Chatbot' style={{color: blue; font: underline}}>Aurora AI</a> - RAG chatbot for external context with : pdf, youtube, web</li>
+  <li><a href='https://github.com/isudiptodas/SHIELD-Password_Manager' style={{color: blue; font: underline}}>Shield</a> - Password manager with 256 bit encryption & password generation</li>
+  <li><a href='https://github.com/isudiptodas/DOWNTOWN-Location_Based_Services' style={{color: blue; font: underline}}>Downtown IO</a> - AI trip planner and location based services</li>
+  <li><a href='https://github.com/isudiptodas/LEARNFINITY-Smart_Learning_Platform' style={{color: blue; font: underline}}>Learnfinity</a> - Free developer resources with out of the box features</li>
 </ul>
 
 ###
