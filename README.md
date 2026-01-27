@@ -51,6 +51,12 @@ Currently focusing on AI and DevOps. <br> <br>
 
 ###
 
+<h2 align="left">Projects</h2>
+<ul>
+  <li><a href='' style={{color: blue; font: underline}}>MediLab</a> - Complete end to end healthcare management platform</li>
+</ul>
+
+###
 
 <h2 align="left">Tech stack used </h2>
 
