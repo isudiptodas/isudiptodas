@@ -21,7 +21,7 @@ Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "Java"];
 Web_Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs", "SpringBoot"];
 Databases = ["MySQL", "MongoDB", "Neon", "Datastax", "Redis"];
-Cloud = ["Docker", "AWS"];
+Cloud = ["Docker", "AWS", "Jenkins", "Kubernetes"];
 OS = ["Windows", "Linux (ubuntu)"];
 Others = ["ArcJet", "Drizzle", "Prisma"];
 Design_Tools = ["Canva", "Affinity", "Figma", "Spline"];
@@ -121,6 +121,12 @@ Currently focusing on AI and DevOps. <br> <br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/springboot.png" height="40" alt="springboot" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/redis.png" height="40" alt="redis" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/AWS.png" height="40" alt="aws" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/Jenkins.png" height="40" alt="jenkins" />
+  <img width="25" />
+  <img src="https://github.com/isudiptodas/isudiptodas/blob/main/Kubernetes.png" height="40" alt="kubernetes" />
   <img width="25" />
 </div>
 
