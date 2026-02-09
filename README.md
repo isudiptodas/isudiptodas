@@ -53,7 +53,7 @@ Currently focusing on AI and DevOps. <br> <br>
 
 <h2 align="left">Projects</h2>
 <ul>  
-  <li><a href='https://github.com/isudiptodas/Cloud-Voting-System/tree/main' style={{color: blue; font: underline}}>CloudVault</a> - Cloud voting system (in progress...) </li>
+  <li><a href='https://github.com/isudiptodas/Cloud-Voting-System/tree/main' style={{color: blue; font: underline}}>CloudVault</a> - Cloud native voting system (in progress...) </li>
   <li><a href='https://github.com/isudiptodas/Healthcare-Management-Platform' style={{color: blue; font: underline}}>MediLab</a> - Complete end to end healthcare management platform</li>
   <li><a href='https://github.com/isudiptodas/Pixel-Labs-Component_UI_Library' style={{color: blue; font: underline}}>PixelLabs UI</a> - Frontend UI component library for ReactJS</li>
   <li><a href='https://github.com/isudiptodas/Ripple-AI-Multi_Feature_Platform' style={{color: blue; font: underline}}>Ripple AI</a> - A platform packed with fun & interactive features</li>
