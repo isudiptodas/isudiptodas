@@ -26,7 +26,6 @@ Cloud = ["Docker", "AWS", "Jenkins", "Kubernetes"];
 OS = ["Windows", "Linux (ubuntu)"];
 Others = ["ArcJet", "Drizzle", "Prisma"];
 Design_Tools = ["Canva", "Affinity", "Figma", "Spline"];
-
 ```
 
 ###
