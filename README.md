@@ -25,7 +25,7 @@ Databases = ["MySQL", "MongoDB", "Neon", "Datastax", "Redis"];
 Cloud = ["Docker", "AWS", "Jenkins", "Kubernetes", "Terraform"];
 OS = ["Windows", "Linux (ubuntu)"];
 Others = ["ArcJet", "Drizzle", "Prisma"];
-Design_Tools = ["Canva", "Affinity", "Figma", "Spline"];
+Design_Tools = ["Canva", "Figma"];
 ```
 
 ###
