@@ -11,8 +11,6 @@
 
 ###
 
-<h2 align="left">It's Sudipto this side.</h2>
-
 <h3>Read out my articles : <a href="https://www.isudiptodas.online/articles">https://www.isudiptodas.online/articles</a></h3>
 
 ###
@@ -22,7 +20,7 @@ Interest = ["Astronomy", "Technology", "Books"];
 Programming_Languages = ["C++", "Java"];
 Web_Technology = ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "ReactJS", "NodeJs", "Express", "NextJs", "SpringBoot"];
 Databases = ["MySQL", "MongoDB", "Neon", "Datastax", "Redis"];
-Cloud = ["Docker", "AWS", "Jenkins", "Kubernetes", "Terraform"];
+Cloud = ["Docker", "AWS", "Jenkins", "Kubernetes", "Terraform", "Prometheus", "Grafana"];
 OS = ["Windows", "Linux (ubuntu)"];
 Others = ["ArcJet", "Drizzle", "Prisma"];
 Design_Tools = ["Canva", "Figma"];
