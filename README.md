@@ -47,8 +47,7 @@ Currently focusing on AI and DevOps. <br> <br>
 
 <br>
 
-###
-
+<!--
 <h2 align="left">Tech stack used </h2>
 
 ###
@@ -107,8 +106,7 @@ Currently focusing on AI and DevOps. <br> <br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/Kubernetes.png" height="40" alt="kubernetes" />
   <img width="25" />
 </div>
-
-###
+-->
 
 <div align="center">    
 
